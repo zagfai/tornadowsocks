@@ -1,0 +1,5 @@
+{
+    "debug": true,
+    "pwd": "hellosocks",
+    "port": [80, 8080]
+}
